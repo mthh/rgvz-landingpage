@@ -266,14 +266,22 @@ header.masthead h2 {
 }
 
 .footer {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #2C3E50;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  background-color: #c3c3c3;
   color: #fff;
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: #aaaaaa;
+}
+
+.footer img {
+  height: 3rem;
+}
+
+.copyright img {
+  height: 1.5rem;
 }
 
 a {
