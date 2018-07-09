@@ -1,29 +1,16 @@
 {
-    "title": "Freelancer",
-    "name": "startbootstrap-freelancer",
+    "name": "regioviz-landingpage",
     "version": "4.0.0",
-    "description": "A freelancer portfolio HTML theme for Bootstrap.",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
-    ],
-    "homepage": "https://startbootstrap.com/template-overviews/freelancer",
+    "description": "Regioviz (CGET version) landingpage",
+    "homepage": "https://github.com/riatelab/regioviz-landingpage/",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/riatelab/regioviz-landingpage/issues",
+        "email": "matthieu.viry@cnrs.fr"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+        "url": "https://github.com/riatelab/regioviz-landingpage.git"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
